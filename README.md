@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @Techniciann9ne
-- 👀 I’m interested in web 3, DAO's, DeFi, Marketing
-- 💞️ I’m looking to collaborate on anything I'm able to fit in as a dude 
-- 📫 How to reach me - Discord: 🐙Rankko.eth#6862 Telegram: @eviln9ne
+### hey, i'm techniciann9ne 👾
+
+building AI agents that do my job better than me · web3 marketing infra · automation maximalism
+
+running behind **[RZLT](https://rzlt.io)** — AI-native marketing agency for Web3 & AI startups
+
+```bash
+$ whoami
+> breaks things on purpose · ships before it's ready · automates the boring stuff
+```
+
+currently: teaching machines to cold email · semi-tokenized everything · avoiding meetings (failed)
+
+[![Twitter](https://img.shields.io/badge/𝕏-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/rgajanovic)
+[![Email](https://img.shields.io/badge/ranko@rzlt.io-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gm@rzlt.io)
 
 <!---
 Techniciann9ne/Techniciann9ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
