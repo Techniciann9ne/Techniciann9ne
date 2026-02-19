@@ -9,7 +9,7 @@ $ whoami
 > breaks things on purpose · ships before it's ready · automates the boring stuff
 ```
 
-currently: teaching machines to cold email · semi-tokenized everything · avoiding meetings (failed)
+currently: teaching machines to cold email · semi-tokenized · avoiding meetings (failed)
 
 [![Twitter](https://img.shields.io/badge/𝕏-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/rgajanovic)
 [![Email](https://img.shields.io/badge/ranko@rzlt.io-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gm@rzlt.io)
