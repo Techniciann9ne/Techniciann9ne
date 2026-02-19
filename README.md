@@ -1,6 +1,6 @@
 ### hey, i'm techniciann9ne 👾
 
-building AI agents that do my job better than me · web3 marketing infra · automation maximalism
+building AI agents that do my job better than me · marketing infra · automation
 
 running behind **[RZLT](https://rzlt.io)** — AI-native marketing agency for Web3 & AI startups
 
